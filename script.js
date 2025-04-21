@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "https://helios-browser.w3spaces.com/",
         "https://helios-browser.pages.dev/",
         "https://helios-browser.ct.ws",
-        "https://proxy.realabucket.xyz"
+        "https://proxy.realabucket.xyz/"
     ];
 
     function normalizeUrl(url) {
